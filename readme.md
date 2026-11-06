@@ -5,16 +5,16 @@ imágenes de los diferentes softwares informáticos que precise en cada módulo,
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://github.com/mgorrod925/PICTURES/edit/main/githublogo.png" /></td>
-    <td><img src="https://github.com/mgorrod925/PICTURES/edit/main/gitlogo.png" /></td>
+    <td><img src="https://github.com/mgorrod925/PICTURES/blob/main/githublogo.png)" /></td>
+    <td><img src="https://github.com/mgorrod925/PICTURES/blob/main/gitlogo.png" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/mgorrod925/PICTURES/edit/main/dartlogo.png" /></td>
-    <td><img src="https://github.com/mgorrod925/PICTURES/edit/main/flutterlogo.png" /></td>
+    <td><img src="https://github.com/mgorrod925/PICTURES/blob/main/dartlogo.png" /></td>
+    <td><img src="https://github.com/mgorrod925/PICTURES/blob/main/flutterlogo.png" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/mgorrod925/PICTURES/edit/main/phplogo.png" /></td>
-    <td><img src="https://github.com/mgorrod925/PICTURES/edit/main/xamplogo.png" /></td>
+    <td><img src="https://github.com/mgorrod925/PICTURES/blob/main/phplogo.png" /></td>
+    <td><img src="https://github.com/mgorrod925/PICTURES/blob/main/xamplogo.png" /></td>
   </tr>
 </table>
 </div>
