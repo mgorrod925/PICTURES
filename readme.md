@@ -6,7 +6,7 @@ imágenes de los diferentes softwares informáticos que precise en cada módulo,
 <div align="center">
 <table>
   <tr>
-    <td width="200" height="150" align="center" valign="middle"><img src="https://github.com/mgorrod925/PICTURES/blob/main/githublogo.png)" width="200" height="150" style="object-fit: cover; display: block;" alt="Imagen 1"></td>
+    <td width="200" height="150" align="center" valign="middle"><img src="https://github.com/mgorrod925/PICTURES/blob/main/githublogo.png" width="200" height="150" style="object-fit: cover; display: block;" alt="Imagen 1"></td>
     <td width="200" height="150" align="center" valign="middle"><img src="https://github.com/mgorrod925/PICTURES/blob/main/gitlogo.png" width="200" height="150" style="object-fit: cover; display: block;" alt="Imagen 1"></td>
   </tr>
   <tr>
